@@ -1,0 +1,64 @@
+{
+  "siteUrl": "http://localhost:8881",
+  "phpVersion": "8.1",
+  "wordpressVersion": "6.7.1",
+  "plugins": [
+    {
+      "name": "akismet",
+      "status": "inactive",
+      "version": "5.3.3"
+    },
+    {
+      "name": "fusion-builder",
+      "status": "active",
+      "version": "3.11.11"
+    },
+    {
+      "name": "fusion-core",
+      "status": "active",
+      "version": "5.11.11"
+    },
+    {
+      "name": "fusion-white-label-branding",
+      "status": "active",
+      "version": "1.2"
+    },
+    {
+      "name": "hello",
+      "status": "inactive",
+      "version": "1.7.2"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Avada",
+      "status": "active",
+      "version": "7.11.11"
+    },
+    {
+      "name": "twentytwentyfive",
+      "status": "inactive",
+      "version": "1.0"
+    },
+    {
+      "name": "twentytwentyfour",
+      "status": "inactive",
+      "version": "1.2"
+    },
+    {
+      "name": "twentytwentythree",
+      "status": "inactive",
+      "version": "1.5"
+    },
+    {
+      "name": "twentytwentytwo",
+      "status": "inactive",
+      "version": "1.8"
+    },
+    {
+      "name": "wanium",
+      "status": "inactive",
+      "version": "1.8.2"
+    }
+  ]
+}
